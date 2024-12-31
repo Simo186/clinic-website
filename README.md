@@ -4,7 +4,7 @@ This project showcases a clinic website designed to provide information about th
 
 ## Live Website
 You can view the live version of the clinic website here:  
-[Live Clinic Website](https://farma.unaux.com/) 
+[Live Clinic Website](http://farma.unaux.com/) 
 
 ## Features:
 - Free consultation form
